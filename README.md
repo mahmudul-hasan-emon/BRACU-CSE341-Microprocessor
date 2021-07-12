@@ -1,2 +1,4 @@
 # CSE341-Microprocessor
-Microprocessor [Theory, Lab and Project] 
+Semester: Summer-2021
+Theory Faculty: Ram Krishna Saha
+
