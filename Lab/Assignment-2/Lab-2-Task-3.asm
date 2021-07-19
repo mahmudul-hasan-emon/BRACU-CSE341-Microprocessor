@@ -1,5 +1,4 @@
-;Task 03: Write a program to: (a) prompt the user, (b) read three characters, and then
-(c) display them down the left margin in reverse order
+;Task 03: Write a program to: (a) prompt the user, (b) read three characters, and then (c) display them down the left margin in reverse order
 
 .MODEL SMALL
   
