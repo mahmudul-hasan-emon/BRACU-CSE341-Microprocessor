@@ -57,12 +57,6 @@ MOV DS,AX
     mov ah,2
     int 21h 
     
-    
-    
-    
-    
-
-
 ;exit to DOS
 MOV AX,4C00H
 INT 21H
