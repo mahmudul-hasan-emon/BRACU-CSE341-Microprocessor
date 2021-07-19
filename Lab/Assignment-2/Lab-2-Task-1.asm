@@ -1,4 +1,4 @@
-Task 01: Take two single digit numbers as input. Let’s call them 𝑥 and 𝑦. Now calculate
+;Task 01: Take two single digit numbers as input. Let’s call them 𝑥 and 𝑦. Now calculate
 (𝑥 + 𝑦)^2, print the message “The result is” and then display the least significant
 digit of the result (i.e., (𝑥 + 𝑦)^2 mod 10) in the next line.
 
