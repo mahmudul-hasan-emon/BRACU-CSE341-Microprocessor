@@ -1,7 +1,4 @@
-;Task 02: Take a 2-digit number as input from the user. Let the number be 𝑛. Now display
-the 𝑛𝑡ℎ character in English Alphabet at the next position on the next line in lower
-case. (You don’t need to do error checking; the input number will be kept between
-01 and 26).
+;Task 02: Take a 2-digit number as input from the user. Let the number be 𝑛. Now displaythe 𝑛𝑡ℎ character in English Alphabet at the next position on the next line in lower case. (You don’t need to do error checking; the input number will be kept between 01 and 26).
 
 .MODEL SMALL
 
@@ -44,8 +41,6 @@ MOV DS,AX
    mov ah,2
    int 21h
    
-
-
 ;exit to DOS
 MOV AX,4C00H
 INT 21H
